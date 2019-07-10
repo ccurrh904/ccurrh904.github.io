@@ -1,0 +1,29 @@
+ #watermelon {
+   width: 100px;
+   text-align: center;
+ }
+
+ #shor {
+   height: 100px;
+   width: 1250px;
+ }
+
+#hackerman {
+  width: 20%;
+}
+
+.blue_font{
+  color: lightblue;
+  font-family: 'Montserrat', sans-serif;
+}
+body {
+  background-color: lightpink;
+}
+
+li {
+  color: white;
+}
+
+.body_text {
+  color: white;
+}
